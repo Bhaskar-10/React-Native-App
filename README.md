@@ -69,4 +69,5 @@ You've successfully run and modified your React Native App. :partying_face:
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
 ![WhatsApp Image 2024-04-20 at 17 30 34](https://github.com/Bhaskar-10/React-Native-App/assets/116245937/2fe50367-afbc-4248-b3b7-d4e084a7521e)
+![WhatsApp Image 2024-04-20 at 17 30 30](https://github.com/Bhaskar-10/React-Native-App/assets/116245937/f31b7a14-323a-482c-9c4c-3fdae3b5ad55)
 
